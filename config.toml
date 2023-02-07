@@ -1,0 +1,4 @@
+baseURL = 'https://irekovic.github.io/github-actions-primer/'
+languageCode = 'en-us'
+title = 'Example Static Site'
+theme = 'ananke'
